@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoesChain", "DominoesChain\DominoesChain.csproj", "{97D0C0EA-E563-4079-8C32-835A3A3F0EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D0C0EA-E563-4079-8C32-835A3A3F0EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D0C0EA-E563-4079-8C32-835A3A3F0EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D0C0EA-E563-4079-8C32-835A3A3F0EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D0C0EA-E563-4079-8C32-835A3A3F0EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
